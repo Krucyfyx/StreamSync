@@ -1,6 +1,6 @@
-# Streamsync - Flutter Video Conferencing App
+# StreamSync - Flutter Video Conferencing App
 
-Streamsync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
+StreamSync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
 
 ## Features
 
@@ -11,7 +11,7 @@ Streamsync is a Flutter-based video conferencing application inspired by Zoom, w
 
 ## Getting Started
 
-Follow these steps to get Streamsync up and running on your local machine or deployed to a server.
+Follow these steps to get StreamSync up and running on your local machine or deployed to a server.
 
 ### Prerequisites
 
@@ -24,15 +24,15 @@ Follow these steps to get Streamsync up and running on your local machine or dep
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/streamsync.git
+   git clone https://github.com/yourusername/StreamSync.git
 
-Creating a comprehensive README.md file is crucial for your project's documentation. It helps users understand what your project does, how to set it up, and how to use it effectively. Below is a template for your Streamsync Flutter video conferencing app's README.md file:
+Creating a comprehensive README.md file is crucial for your project's documentation. It helps users understand what your project does, how to set it up, and how to use it effectively. Below is a template for your StreamSync Flutter video conferencing app's README.md file:
 
 markdown
 
-# Streamsync - Flutter Video Conferencing App
+# StreamSync - Flutter Video Conferencing App
 
-Streamsync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
+StreamSync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
 
 
 ## Features
@@ -44,7 +44,7 @@ Streamsync is a Flutter-based video conferencing application inspired by Zoom, w
 
 ## Getting Started
 
-Follow these steps to get Streamsync up and running on your local machine or deployed to a server.
+Follow these steps to get StreamSync up and running on your local machine or deployed to a server.
 
 ### Prerequisites
 
@@ -57,9 +57,9 @@ Follow these steps to get Streamsync up and running on your local machine or dep
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/streamsync.git
+   git clone https://github.com/yourusername/StreamSync.git
 
-2. Navigate to the project directory: cd streamsync
+2. Navigate to the project directory: cd StreamSync
 3. Install the required dependencies: flutter pub get
 4. Configure Firebase:
 
@@ -76,7 +76,7 @@ Follow these steps to get Streamsync up and running on your local machine or dep
 1. Run the app on your preferred device/emulator: flutter run
 2. Sign up or sign in using your Google account.
 3. Create a new conference or join an existing one using the provided options.
-4. Enjoy seamless video conferencing with Streamsync!
+4. Enjoy seamless video conferencing with StreamSync!
 
 ## Contributions
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
