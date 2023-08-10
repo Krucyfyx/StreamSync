@@ -21,19 +21,13 @@ Follow these steps to get StreamSync up and running on your local machine or dep
 
 
 
-## Features
-
-- User-friendly interface for creating and joining video conferences.
-- Secure authentication powered by Firebase with Google sign-in support.
-- Real-time video conferencing using the Jitsi Meet framework.
-
 
 ### Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/StreamSync.git
+   git clone https://github.com/Krucyfyx/StreamSync.git
 
 2. Navigate to the project directory: cd StreamSync
 3. Install the required dependencies: flutter pub get
