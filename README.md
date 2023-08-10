@@ -1,6 +1,6 @@
 # StreamSync - Flutter Video Conferencing App
 
-StreamSync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
+StreamSync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as FIrebase-backed Google authentication and Jitsi Meet integration for video conferencing.
 
 ## Features
 
@@ -19,20 +19,6 @@ Follow these steps to get StreamSync up and running on your local machine or dep
 - [Firebase Account](https://firebase.google.com/) for authentication.
 - [Jitsi Meet SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk) for video conferencing.
 
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/yourusername/StreamSync.git
-
-Creating a comprehensive README.md file is crucial for your project's documentation. It helps users understand what your project does, how to set it up, and how to use it effectively. Below is a template for your StreamSync Flutter video conferencing app's README.md file:
-
-markdown
-
-# StreamSync - Flutter Video Conferencing App
-
-StreamSync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
 
 
 ## Features
@@ -41,16 +27,6 @@ StreamSync is a Flutter-based video conferencing application inspired by Zoom, w
 - Secure authentication powered by Firebase with Google sign-in support.
 - Real-time video conferencing using the Jitsi Meet framework.
 
-
-## Getting Started
-
-Follow these steps to get StreamSync up and running on your local machine or deployed to a server.
-
-### Prerequisites
-
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Firebase Account](https://firebase.google.com/) for authentication.
-- [Jitsi Meet SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk) for video conferencing.
 
 ### Installation
 
