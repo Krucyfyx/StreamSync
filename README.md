@@ -1,40 +1,87 @@
-# Zoom Clone
+# Streamsync - Flutter Video Conferencing App
 
-Zoom Clone that works on Android & iOS! 
+Streamsync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
 
 ## Features
-1. Google Sign In
-2. Create New Meeting
-3. Join Meeting
-4. Mute/Unmute Audio
-5. Mute/Unmute Video
-6. Change Display Name while Joining
-7. Raise Hand
-8. Start Screen Sharing
-9. Mute Everyone
-10. Start Live Stream
-11. Screen Share
-12. Chat
-13. Switch Front/Rear Camera
-14. Picture in Picture
-15. Enter Tile View
-16. Disable Camera
-17. End Call
-18. See Your Meeting History
-19. Log out
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/sMA1dKbv33Y) 
+- User-friendly interface for creating and joining video conferences.
+- Secure authentication powered by Firebase with Google sign-in support.
+- Real-time video conferencing using the Jitsi Meet framework.
+  
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-zoom-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+## Getting Started
 
-## Tech Used
-**Server**: Firebase Auth, Firestore, Google Sign In, Jitsi Meet
-**Client**: Flutter
-    
-## Feedback
+Follow these steps to get Streamsync up and running on your local machine or deployed to a server.
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Firebase Account](https://firebase.google.com/) for authentication.
+- [Jitsi Meet SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk) for video conferencing.
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/yourusername/streamsync.git
+
+Creating a comprehensive README.md file is crucial for your project's documentation. It helps users understand what your project does, how to set it up, and how to use it effectively. Below is a template for your Streamsync Flutter video conferencing app's README.md file:
+
+markdown
+
+# Streamsync - Flutter Video Conferencing App
+
+Streamsync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
+
+![Streamsync Screenshot](screenshot.png)
+
+## Features
+
+- User-friendly interface for creating and joining video conferences.
+- Secure authentication powered by Firebase with Google sign-in support.
+- Real-time video conferencing using the Jitsi Meet framework.
+- [Add more features here]
+
+## Getting Started
+
+Follow these steps to get Streamsync up and running on your local machine or deployed to a server.
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Firebase Account](https://firebase.google.com/) for authentication.
+- [Jitsi Meet SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk) for video conferencing.
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/yourusername/streamsync.git
+
+2. Navigate to the project directory: cd streamsync
+3. Install the required dependencies: flutter pub get
+4. Configure Firebase:
+
+   - Create a new Firebase project.
+   - Add your Android and iOS apps in the Firebase project settings.
+   - Download the google-services.json for Android and GoogleService-Info.plist for iOS.
+   - Place these files in the appropriate locations in your Flutter project.
+5. Configure Jitsi Meet:
+
+   - Integrate the Jitsi Meet SDK according to their documentation.
+   - Update the necessary configuration in the Flutter app to use Jitsi Meet.
+
+## Usage
+1. Run the app on your preferred device/emulator: flutter run
+2. Sign up or sign in using your Google account.
+3. Create a new conference or join an existing one using the provided options.
+4. Enjoy seamless video conferencing with Streamsync!
+
+## Contributions
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Author
+- Yugaansh Gautam
 
