@@ -34,7 +34,6 @@ markdown
 
 Streamsync is a Flutter-based video conferencing application inspired by Zoom, with additional features such as Google-backed Firebase authentication and Jitsi Meet integration for video conferencing.
 
-![Streamsync Screenshot](screenshot.png)
 
 ## Features
 
